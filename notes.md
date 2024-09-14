@@ -42,3 +42,7 @@ I need more files to make a relative link
 
 I don't have an image to link but you do it with `!`
 
+--------------------------------
+
+ssh -I [key pair file] ubuntu@[ip address]
+
