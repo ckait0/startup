@@ -47,3 +47,22 @@ I don't have an image to link but you do it with `!`
 ssh -I [key pair file] ubuntu@[ip address]
 
 `git commit -am "message"` is the ony thing that works, everything else is an error of some sort
+--------------------------
+
+vi into the caddy file and change to the domain name instead of http 80:
+SUDO SERVICE CADDY RESTART
+
+We need codepen.io
+Fork to make a copy
+
+* {General syle rules for everything}
+
+html {That html object}
+
+p {referencing the p object}
+
+span {span tag}
+
+MDN WEb Docs
+W3Schools.com
+
