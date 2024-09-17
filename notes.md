@@ -46,4 +46,4 @@ I don't have an image to link but you do it with `!`
 
 ssh -I [key pair file] ubuntu@[ip address]
 
-`git commit -am "message"` is the ony thing that works
+`git commit -am "message"` is the ony thing that works, everything else is an error of some sort
