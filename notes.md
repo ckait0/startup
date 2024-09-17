@@ -32,7 +32,7 @@ An entire block
 Of code
 ```
 
-I'm confused about the color stuff
+I'm confused about the color stuff, it really was not explained how to actually put it in the document (as in the syntax) and what the color hashes mean
 
 This is a [link](www.google.com)
 
