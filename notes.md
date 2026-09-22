@@ -37,4 +37,4 @@ Interesting things I have learned about React
 
 ## Other Stuff
 I love web programming だって
-
+The deploy script seems to be broken, and I'm changing this file because it won't let me commit for some reason.
